@@ -1,5 +1,6 @@
 * {
     margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
 }
 
 #navbarNavAltMarkup img {
@@ -20,6 +21,10 @@ footer {
     font-size: 12px;
     border-top: 3px solid #DEA257;
     padding-top: 10px;
+}
+
+footer > p {
+    padding-bottom: 12px;
 }
 
 h2 {
